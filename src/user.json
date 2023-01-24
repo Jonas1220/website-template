@@ -1,0 +1,20 @@
+{
+    "name": "Jonas Kaatz",
+    "description": "Hi! I’m Jonas. A Software developer based near Frankfurt, Germany. As of July 2022 I worked in the tech industry as IT specialist and Developer for ten years. Beside that I’m passionate about and explore things like travel, crypto and learning new things. For feedback and suggestions please contact me",
+    "contact": {
+        "email": "jonas@jonaskaatz.com",
+        "phone": "+4915221994132",
+        "socials": [
+            {"name":"Facebook","link":"#"},
+            {"name":"Twitter","link":"#"},
+            {"name":"LinkedIn","link":"#"}
+        ]
+    },
+    "projects": [
+        {"name":"TV show search","link":"https://tv.jonaskaatz.com"},
+        {"name":"Shopify Shop","link":"https://clothes-one-design.myshopify.com/?preview_theme_id=122537410743"},
+        {"name":"Los Postres de Lulú","link":"https://los-postres-de-lulu.com"}
+    ],
+    "projectBtn":"go",
+    "projectIcon":"✔"
+}
